@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pham Duy Manh</h1>
-<h3 align="center">A passionate Sophomore in Computer Engineer (HCMUT|VNU) from Vietnam</h3>
+<h3 align="center">A passionate Sophomore in Computer Engineering (HCMUT|VNU) from Vietnam</h3>
 
 - 🌱 I’m currently learning **Computer Architecture, Data Structure and Algorithm, Mathematical Modeling...**
 
